@@ -6,6 +6,6 @@ def solveMeFirst(a,b): #function to find the sum
 num1 = int(input())
 num2 = int(input())
 
-res = solveMeFirst(num1,num2)#calling the function and passing the arguments
+res = solveMeFirst(num1,num2) #calling the function solveMeFirst and passing the arguments
 
-print(res)#printing the result
+print(res) #printing the result
